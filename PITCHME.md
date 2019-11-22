@@ -147,6 +147,7 @@
 - Scala、TypeScript、cloud上のリソース(RDS、BigQueryなど)がメイン
 - Terraformでクラウドリソースのコード化
 - VCSはgithub
+- DDDの導入
 
 +++
 
