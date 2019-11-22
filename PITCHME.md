@@ -7,20 +7,22 @@
 
 ## 自己紹介
 
-名前  
+名前
 - いっくん(@ikkuntech)
 
-所属  
+所属
 - Speee株式会社 https://speee.jp/
 
-普段  
+普段
 - 新規事業の開発(メインはバックエンドだが、少人数のためなんでもやらないといけなそう)
 
-言語歴  
++++
+
+言語歴
 - TypeScript, Scala, PHPメイン
 - その他Terraformなども触ったりしてます
 
-SNS  
+SNS
 - Twitter https://twitter.com/ikkuntech
 - GitHub https://github.com/isuzuki
 
@@ -30,7 +32,7 @@ SNS
 
 ---
 
-## 環境1(2008 ~ 2012)
+### 環境1(2008 ~ 2012)
 
 +++
 
@@ -79,7 +81,7 @@ VCSはCVSからSVNに移行
 
 ---
 
-環境2(2012 ~ 2017)
+### 環境2(2012 ~ 2017)
 
 +++
 
