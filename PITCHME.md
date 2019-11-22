@@ -221,4 +221,3 @@ https://speakerdeck.com/dskst/what-is-legacy
 ---
 
 ご清聴ありがとうございました！
-検討中
